@@ -1,8 +1,0 @@
-{
-    "telegram_bot_token": "",
-    "openai_api_key": "",
-    "openai_org_id": "",
-    "allowed_telegram_users": [],
-    "verbose": false,
-    "opusdec": "/usr/bin/opusdec"
-}

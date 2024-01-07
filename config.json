@@ -1,0 +1,8 @@
+{
+    "telegram_bot_token": "6941511642:AAHL9MmlNGSbMpv1dSHXrp_luPCd-5gKwj4",
+    "openai_api_key": "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",
+    "openai_org_id": "org-HE5SGrpfB7PdqXwwaApZfjhw",
+    "allowed_telegram_users": [],
+    "verbose": false,
+    "opusdec": "/usr/bin/opusdec"
+}
